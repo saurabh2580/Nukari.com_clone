@@ -1,12 +1,9 @@
 # Naukri.com
-Clone of Naukri.com -Naukri app is the best job search app that caters to all your needs without downloading any separate government jobs alert app, local job search app, part-time jobs app, or work from home jobs app.. This is a team project of 4 members.
+Clone of Naukri.com -Naukri app is the best job search app that caters to all your needs without downloading any separate government jobs alert app, local job search app, part-time jobs app, or work from home jobs app.. 
 
 ## Team Members
 
-• Sachin Parmar </br>
-• Dipti </br>
-• Alok Kumar </br>
-• Nazreen shah </br>
+• saurabh </br>
 
 # Technology Used
 
